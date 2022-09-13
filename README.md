@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**justSem/justSem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sem! I build a lot of stuff - mainly for personal use.
+I'm a Linux geek by heart
 
-Here are some ideas to get you started:
+### Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :wheel_of_dharma: CKA
+- :tophat: RHCE, RHCSA
+- :lizard: SCE, SCA
+- :earth_africa: CCNA
+- :ambulance: SANS/GIAC CIH
+
+
+### For a living I...
+- ... design and build cloud environments.
+- ... used to be an Security Incident Handler
+
