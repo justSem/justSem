@@ -5,14 +5,16 @@ I'm a Linux geek by heart
 
 ### Certifications
 
-- :wheel_of_dharma: CKA
-- :tophat: RHCE, RHCSA
+- ☸️ CKA
+- ⛵ AZ-900
+- 🎩 RHCE, RHCSA
 - :lizard: SCE, SCA
 - :earth_africa: CCNA
 - :ambulance: SANS/GIAC CIH
 
 
 ### For a living I...
-- ... design and build cloud environments.
-- ... used to be an Security Incident Handler
+- ... design and build (hybrid-)cloud environments.
+- ... solve organisational drama's.
+- ... build CTF Challenges
 
